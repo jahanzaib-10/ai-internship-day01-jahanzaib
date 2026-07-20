@@ -4,7 +4,7 @@
 
 This repository contains the solution and documentation for my AI Internship Day 1 diagnostic tasks. In this project, I completed coding and practice for Python basics, functions, data structures (such as dictionaries and lists), text cleaning, and error handling.
 
-## Learning Outcomes
+## Learning Outcomes 
 
 - Learned how to write modular functions in Python.
 - Implemented error handling using `try-except`, `ValueError`, and `TypeError`.
